@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **BTech CSE**
 
-- 📫 How to reach me **https://www.linkedin.com/in/tejasjadhavonline/**
+- 📫 How to reach me **https://www.linkedin.com/in/jadhavtejas/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tejasjadhavonline/](https://www.linkedin.com/in/tejasjadhavonline/)
 
