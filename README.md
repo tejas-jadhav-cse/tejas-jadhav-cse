@@ -13,11 +13,11 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/jadhavtejas/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tejasjadhavonline/](https://www.linkedin.com/in/tejasjadhavonline/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/tejasjadhavonline/](https://www.linkedin.com/in/jadhavtejas/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tejasjadhavonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejasjadhavonline" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Jadhavtejas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejasjadhavonline" height="30" width="40" /></a>
 <a href="https://instagram.com/tejasjadhavonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejasjadhavonline" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tejasjad3a0c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tejasjad3a0c" height="30" width="40" /></a>
 </p>
