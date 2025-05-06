@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 - 🔭 Currently building [Startup Showcase Web Platform](https://tejas-jadhav-cse.github.io/Startup-Showcase-Web/)
 - 🌱 Exploring **AI/ML**, **Software Development Life Cycle (SDLC)**, **Agile**, and **Design Thinking**
 - 👨‍💻 Most of my projects are on [GitHub](https://github.com/tejas-jadhav-cse)
@@ -25,7 +25,7 @@
 
 ---
 
-### 🌐 Connect with Me:
+### Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/jadhavtejas" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -52,15 +52,16 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-jadhav-cse&layout=compact&langs_count=10&theme=default" alt="Top Languages" />
+### 📌 Featured Projects
+- 🚀 [Startup Showcase Web](https://github.com/tejas-jadhav-cse/Startup-Showcase-Web)
+- 🤖 [AI Agent with GPT-4-O]
+
+---
+
+### GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejas-jadhav-cse&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-jadhav-cse&layout=compact&langs_count=10&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-jadhav-cse&theme=default" alt="GitHub Streak Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas-jadhav-cse&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-jadhav-cse&theme=default" alt="GitHub Streak Stats" />
-</p>
