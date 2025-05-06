@@ -1,4 +1,7 @@
-[!MasterHead](https://drive.google.com/uc?export=view&id=1i6ar-HhZ_6Nbh6Vr-8Amw30YpmFYVgI3)
+<!-- Banner -->
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1i6ar-HhZ_6Nbh6Vr-8Amw30YpmFYVgI3" alt="MasterHead Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Tejas Jadhav</h1>
 <h3 align="center">Building SECT Global | Lead @ SECT: Open Source Club | Tech & GTM Consultant for Startups | Scaling Innovation via Open Source | Ex-Intern @ Vodafone-Idea & EventBeep | SIH’22 Winner 🏆 | CS Undergrad | JNV’23</h3>
