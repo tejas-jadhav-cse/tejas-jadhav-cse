@@ -1,32 +1,69 @@
-<!-- Banner -->
+[!MasterHead](https://drive.google.com/uc?export=view&id=1i6ar-HhZ_6Nbh6Vr-8Amw30YpmFYVgI3)
+
+<h1 align="center">Hi 👋, I'm Tejas Jadhav</h1>
+<h3 align="center">Building SECT Global | Lead @ SECT: Open Source Club | Tech & GTM Consultant for Startups | Scaling Innovation via Open Source | Ex-Intern @ Vodafone-Idea & EventBeep | SIH’22 Winner 🏆 | CS Undergrad | JNV’23</h3>
+
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1i6ar-HhZ_6Nbh6Vr-8Amw30YpmFYVgI3" alt="MasterHead Banner" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=tejas-jadhav-cse&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-jadhav-cse" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Tejas Jadhav</h1>
-<h3 align="center">Driving Innovation through Open Source • Startup GTM & Tech Consultant • CS Undergrad • Winner @ SIH'22 🏆</h3>
+---
 
-<p align="center">
+### 🚀 About Me
+- 🔭 Currently building [Startup Showcase Web Platform](https://tejas-jadhav-cse.github.io/Startup-Showcase-Web/)
+- 🌱 Exploring **AI/ML**, **Software Development Life Cycle (SDLC)**, **Agile**, and **Design Thinking**
+- 👨‍💻 Most of my projects are on [GitHub](https://github.com/tejas-jadhav-cse)
+- 📝 I share articles and tech updates on [LinkedIn](https://linkedin.com/in/jadhavtejas)
+- 💬 Ask me about anything tech, open-source, or community!
+- 📫 Reach me at **tejas.jadhav.cse@gmail.com**
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
   <a href="https://linkedin.com/in/jadhavtejas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:tejas.jadhav.cse@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email Me-red?style=for-the-badge&logo=gmail" alt="Gmail">
-  </a>
-  <a href="https://tejas-jadhav-cse.github.io/Startup-Showcase-Web/" target="_blank">
-    <img src="https://img.shields.io/badge/Startup_Showcase-View Project-brightgreen?style=for-the-badge&logo=vercel" alt="Startup Showcase">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me  
-- 🎓 CS Undergrad @ Sandip University | JNV '23  
-- 🛠️ Founder @ **SECT Global** | Lead @ **SECT: Open Source Club**  
-- 🧠 Exploring AI, SDLC, Agile, and Scalable Systems  
-- 🧑‍💻 Ex-Intern @ Vodafone Idea & EventBeep  
-- ✍️ Occasional writer on [LinkedIn](https://linkedin.com/in/jadhavtejas)  
+### 🛠️ Languages & Tools:
+<p align="left">
+<!-- Only showing major categories for readability; feel free to add/remove -->
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" /></a>
+</p>
 
-```bash
-$ whoami
-> Tech innovator, Community builder, and Startup collaborator.
+---
+
+### 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-jadhav-cse&layout=compact&langs_count=10&theme=default" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas-jadhav-cse&show_icons=true&theme=default" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-jadhav-cse&theme=default" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tejas-jadhav-cse&theme=onedark" alt="GitHub Trophy" />
+  </a>
+</p>
