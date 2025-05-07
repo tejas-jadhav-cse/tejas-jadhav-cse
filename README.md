@@ -62,6 +62,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tejas-jadhav-cse&show_icons=true&theme=default" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-jadhav-cse&layout=compact&langs_count=10&theme=default" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-jadhav-cse&theme=default" alt="GitHub Streak Stats" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=tejas-jadhav-cse&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
 </p>
 
