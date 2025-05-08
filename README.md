@@ -60,8 +60,6 @@
 
 ### GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejas-jadhav-cse&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-jadhav-cse&layout=compact&langs_count=10&theme=default" alt="Top Languages" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=tejas-jadhav-cse&show_icons=true&theme=github-dark-blue" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-jadhav-cse&theme=github-dark-blue" alt="GitHub Streak Stats" />
 </p>
