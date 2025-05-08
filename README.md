@@ -63,11 +63,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tejas-jadhav-cse&show_icons=true&theme=default" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-jadhav-cse&layout=compact&langs_count=10&theme=default" alt="Top Languages" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-jadhav-cse&theme=default" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-jadhav-cse&theme=github-dark-blue" alt="GitHub Streak Stats" />
 </p>
-
-<center>
-<!-- GitHub Dark Blue -->
-  ![GitHub Streak](https://streak-stats.demolab.com?user=tejas-jadhav-cse&theme=github-dark-blue&hide_border=true)
-
-</center>
