@@ -67,3 +67,14 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tejas-jadhav-cse&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=tejas-jadhav-cse&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+
+<!-- Gruvbox Theme -->
+![GitHub Streak](https://streak-stats.demolab.com?user=tejas-jadhav-cse&theme=gruvbox&hide_border=true)
+
+<!-- Radial Theme -->
+![GitHub Streak](https://streak-stats.demolab.com?user=tejas-jadhav-cse&theme=radical&hide_border=true)
+
+<!-- GitHub Dark Blue -->
+![GitHub Streak](https://streak-stats.demolab.com?user=tejas-jadhav-cse&theme=github-dark-blue&hide_border=true)
