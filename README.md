@@ -54,7 +54,7 @@
 
 ### 📌 Featured Projects
 - 🚀 [Startup Showcase Web](https://github.com/tejas-jadhav-cse/Startup-Showcase-Web)
-- 🤖 [AI Agent with GPT-4-O]
+- 🤖 [AI Agent with GPT-4o]
 
 ---
 
