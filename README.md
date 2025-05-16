@@ -18,7 +18,7 @@
 ### About Me
 - 🔭 Currently building [Startup Showcase Web Platform](https://tejas-jadhav-cse.github.io/Startup-Showcase-Web/)
 - 🌱 Exploring **AI/ML**, **Software Development Life Cycle (SDLC)**, **Agile**, and **Design Thinking**
-- 👨‍💻 Most of my projects are on [GitHub](https://github.com/tejas-jadhav-cse)
+- 👨‍💻 My all Recent projects are on [GitHub](https://github.com/tejas-jadhav-cse)
 - 📝 I share articles and tech updates on [LinkedIn](https://linkedin.com/in/jadhavtejas)
 - 💬 Ask me about anything tech, open-source, or community!
 - 📫 Reach me at **tejas.jadhav.cse@gmail.com**
